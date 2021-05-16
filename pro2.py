@@ -51,8 +51,5 @@ des2=txt4.text
 print(des2)
 print("\n")
 
-#Upvote Count
-txt4=soup.find('div', attrs = {'id':'root-portal'}) 
-des3=txt4.text
-print(des3)
+
     
