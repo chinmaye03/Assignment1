@@ -8,7 +8,7 @@ Created on Mon May 17 02:37:11 2021
 
 import requests
 from bs4 import BeautifulSoup
-import csv
+
 
 #get the html code   
 URL = "https://www.producthunt.com/posts/trello-66"
